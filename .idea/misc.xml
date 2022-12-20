@@ -5,6 +5,10 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
+<<<<<<< HEAD
+        <option value="$PROJECT_DIR$/pom.xml" />
+=======
+>>>>>>> gokhan
       </list>
     </option>
   </component>
